@@ -24,4 +24,4 @@
 
 
 
-![](https://github.com/SMCLab-UNAM/Courses/blob/main/Material/images/logo.png)
+![SMCLABUNAM](../blob/main/Material/images/logo.png)
