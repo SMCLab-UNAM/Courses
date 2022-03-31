@@ -1,4 +1,4 @@
-# Material for the Courses    ![Sliding Mode Control Laboratory- UNAM](https://github.com/SMCLab-UNAM/Courses/blob/main/Material/uconn-health-wordmark-stacked-blue.png)
+# Material for the Courses  
 ## Prof. Leonid Fridman                                                                
 
 
@@ -10,3 +10,20 @@
 
 -[Control fundamentals material](https://github.com/SMCLab-UNAM/Courses/tree/main/Material/Controls%20fundamentals)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ![Sliding Mode Control Laboratory- UNAM](https://github.com/SMCLab-UNAM/Courses/blob/main/Material/uconn-health-wordmark-stacked-blue.png)
