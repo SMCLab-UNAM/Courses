@@ -24,4 +24,4 @@
 
 
 
-![This is an image](https://github.com/SMCLab-UNAM/Courses/blob/main/Material/logo.png)
+![](https://github.com/SMCLab-UNAM/Courses/blob/main/Material/images/logo.png)
