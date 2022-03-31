@@ -25,5 +25,4 @@
 
 
 
-
-  ![Sliding Mode Control Laboratory- UNAM](https://github.com/SMCLab-UNAM/Courses/blob/main/Material/uconn-health-wordmark-stacked-blue.png)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
