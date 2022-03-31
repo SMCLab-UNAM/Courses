@@ -25,4 +25,4 @@
 
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/SMCLab-UNAM/Courses/blob/main/Material/logo.png)
