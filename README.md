@@ -23,4 +23,4 @@
 
 
 
-![SMCLABUNAM](/main/Material/images/logo.png)
+![SMCLABUNAM](/Courses/Material/images/logo.png)
