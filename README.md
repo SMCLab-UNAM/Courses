@@ -24,4 +24,4 @@
 
 
 
-![SMCLABUNAM](../blob/main/Material/images/logo.png)
+![SMCLABUNAM](../main/Material/images/logo.png)
