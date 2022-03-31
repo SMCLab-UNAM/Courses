@@ -1,5 +1,8 @@
 # Material for the Courses
-## Prof. Leonid Fridman
+## Prof. Leonid Fridman                                                                  ![Sliding Mode Control Laboratory- UNAM](https://github.com/SMCLab-UNAM/Courses/blob/main/Material/logo.pdf)
+
+
+
 
 -[Sliding mode control material](https://github.com/SMCLab-UNAM/Courses/tree/main/Material/Sliding%20modes%20course)
 
