@@ -1,5 +1,5 @@
 # Material for the Courses
-## Prof. Leonid Fridman                                                                  ![Sliding Mode Control Laboratory- UNAM](https://github.com/SMCLab-UNAM/Courses/blob/main/Material/logo.pdf)
+## Prof. Leonid Fridman                                                                  ![Sliding Mode Control Laboratory- UNAM](https://github.com/SMCLab-UNAM/Courses/blob/main/Material/uconn-health-wordmark-stacked-blue.png)
 
 
 
